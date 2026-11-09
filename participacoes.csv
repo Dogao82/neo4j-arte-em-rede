@@ -1,0 +1,14 @@
+estudante_id,projeto_id,papel
+e1,p1,pesquisa
+e2,p1,criação
+e3,p1,curadoria
+e1,p2,criação
+e4,p2,pesquisa
+e5,p2,montagem
+e2,p3,montagem
+e6,p3,pesquisa
+e7,p3,criação
+e3,p4,pesquisa
+e8,p4,criação
+e5,p4,montagem
+e7,p1,pesquisa
