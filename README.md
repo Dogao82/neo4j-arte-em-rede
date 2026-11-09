@@ -1,6 +1,6 @@
 # Arte em Rede — Análise de projetos educacionais com Neo4j
 
-![Modelo conceitual do grafo](modelo-grafo.svg)
+![Modelo conceitual do grafo](imagens/modelo-grafo.svg)
 
 **Desafio DIO | Banco de dados orientado a grafos | Neo4j + Cypher**
 
